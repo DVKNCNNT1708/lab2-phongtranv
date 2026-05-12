@@ -84,7 +84,7 @@
 # Chốt hợp đồng v1.0
 
 Provider sign-off: Đại diện nhóm B6 (Đã duyệt)
-Consumer sign-off: Trần Văn Phong - Thành viên nhóm B1 (Đã duyệt)
+Consumer sign-off: Trần Văn Phong - Thành viênnhóm B1 (Đã duyệt)
 Witness (GV/TA):
 Date: 2026-05-12
 
